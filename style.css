@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box; 
+}
+
+h1{
+    font-size: 80px;
+    text-align: center; 
+    margin: 15px;
+}
+img{
+    display: block;
+    margin: 0% auto;
+    width: 30%;
+}
+h2{
+    font-size: 45px;
+    color: crimson;
+    background-color: aquamarine;
+    text-align: center;
+}
+h2:hover{
+    color: aquamarine;
+    background-color: crimson;
+}
+ul{
+    margin: 20px;
+    padding: 10px;
+
+   }
+li{
+    font-size: 25px;
+    margin: 20px;
+}
+li:hover{
+    color: azure;
+    background-color: rgb(113, 77, 144);
+}
+h5{
+    font-size: 30px;
+    text-align: center;
+}
